@@ -6,4 +6,4 @@
 - Async / Await
 - Try / Catch
 
-http://vnkho-quotegenerator.netlify.app/
+Try it out: http://vnkho-quotegenerator.netlify.app/
