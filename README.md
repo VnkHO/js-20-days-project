@@ -4,7 +4,7 @@
 
 | Project n° |    Project     |   Live demo |
 | ---------- | :------------: | ----------: |
-| 01         | Quote Generator | [Quote Generator](vnkho-quotegenerator.netlify.app){:target="_blank"} |
+| 01         | Quote Generator | <a href="vnkho-quotegenerator.netlify.app" target="_blank">Quote Generator</a>|
 | 02         |                | in progress |
 | 03         |                | in progress |
 | 04         |                | in progress |
