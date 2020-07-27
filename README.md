@@ -4,7 +4,7 @@
 
 | Project n° |    Project     |   Live demo |
 | ---------- | :------------: | ----------: |
-| 01         | Quote Generator | [Quote Generator](vnkho-quotegenerator.netlify.app) |
+| 01         | Quote Generator | [Quote Generator][vnkho-quotegenerator.netlify.app] |
 | 02         |                | in progress |
 | 03         |                | in progress |
 | 04         |                | in progress |
